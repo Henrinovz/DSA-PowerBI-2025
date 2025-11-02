@@ -5,7 +5,7 @@ Repositório destinado a registrar minha trajetória no curso da Data Science Ac
 
 ## 🗂 Estrutura do repositório
 
-💻 [Project](./Project) – reúne os desafios e dashboards desenvolvidos durante o cuso, colocando em prática os conceitos aprendidos e buscando soluções em análise de dados.
+💻 [Project](./Projetos) – reúne os desafios e dashboards desenvolvidos durante o cuso, colocando em prática os conceitos aprendidos e buscando soluções em análise de dados.
 
 ---
 
